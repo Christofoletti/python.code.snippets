@@ -9,5 +9,5 @@ scikit-learn: [https://scikit-learn.org/stable/index.html]
 - Seaborn: [https://seaborn.pydata.org/index.html]
 
 ### Articles and tutorials
-[https://realpython.com/python-matplotlib-guide/]
-[https://book.pythontips.com/en/latest/index.html]
+- Matplotlib guide: [https://realpython.com/python-matplotlib-guide/]
+- Python tips: [https://book.pythontips.com/en/latest/index.html]
