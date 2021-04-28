@@ -11,3 +11,6 @@
 ### Articles and tutorials
 - <a href="https://realpython.com/python-matplotlib-guide/" target="_blank">Matplotlib guide</a>: A picture is worth a thousand words
 - <a href="https://book.pythontips.com/en/latest/index.html" target="_blank">Python tips</a>: Lots of useful Python tips
+- <a href="https://www.datacamp.com/community/blog/scikit-learn-cheat-sheet" target="_blank">Scikit-Learn Cheat Sheet: Python Machine Learning</a>: A handy scikit-learn cheat sheet to machine learning with Python, including code examples
+- <a href="https://towardsdatascience.com/scikit-learn-cheat-sheet-2021-python-for-data-science-c634fd5dcbd0" target="_blank">Scikit-Learn Cheat Sheet</a>: The absolute basics for beginners learning Scikit-Learn in 2021
+
