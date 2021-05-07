@@ -4,6 +4,7 @@
 - <a href="https://scikit-learn.org/stable/index.html" target="_blank">scikit-learn</a>: Machine Learning in Python
 
 ### Some useful libraries
+- <a href="https://numpy.org/doc/stable/" target="_blank">Numpt</a>: Numpy documentation
 - <a href="https://pandas.pydata.org/docs/" target="_blank">Pandas</a>: Pandas documentation
 - <a href="https://matplotlib.org/" target="_blank">Matplotlib</a>: comprehensive library for creating static, animated, and interactive visualizations in Python
 - <a href="https://seaborn.pydata.org/index.html" target="_blank">Seaborn</a>: Python data visualization library based on matplotlib
